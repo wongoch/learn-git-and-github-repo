@@ -11,3 +11,5 @@ Learn Git & Github
 4. Modify README.md and Add new index.html file
 
 5. Change remote url from HTTPS to SSH and Push to online repository
+
+6. Create a feature branch and Update the README.md
